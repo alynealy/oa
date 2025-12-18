@@ -414,7 +414,7 @@ class LogoCluster:
         
         with open('logo_gorups.json', 'w') as f:
             json.dump(output, f, indent=2)
-        with open('smart_logo_summary.txt', 'w') as f:
+        with open('logo_summary.txt', 'w') as f:
             self._write_summary(f, output, groups)
         
         return output
