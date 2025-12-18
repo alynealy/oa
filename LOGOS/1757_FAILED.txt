@@ -1,0 +1,6 @@
+URL: https://fmc-symposium.cz
+Status: FAILED
+Error: No logo found
+Method: access_error: HTTPSConnectionPool(host='fmc-
+Index: 1757
+Timestamp: Tue Dec  9 11:22:21 2025

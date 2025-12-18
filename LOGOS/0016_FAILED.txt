@@ -1,0 +1,6 @@
+URL: https://ymcasteuben.org
+Status: FAILED
+Error: No logo found
+Method: access_error: HTTPSConnectionPool(host='ymca
+Index: 16
+Timestamp: Tue Dec  9 11:22:19 2025

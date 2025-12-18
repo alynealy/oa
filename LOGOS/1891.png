@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en-SG">
+  <head prefix="og:https://ogp.me/ns#">
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=yes, maximum-scale=5, user-scalable=1"
+    />
+    <title></title>
+    <meta property="og:type" content="website" />
+    <!--app-head-->
+    <!--app-preload-->
+    <script
+      type="module"
+      crossorigin=""
+      src="/sg/sg-cnccms/js/index-6y_exd2Z.js"
+    ></script>
+    <link
+      rel="modulepreload"
+      crossorigin=""
+      href="/sg/sg-cnccms/js/swiper-zrwgHtDE.js"
+    />
+    <link
+      rel="modulepreload"
+      crossorigin=""
+      href="/sg/sg-cnccms/js/lodash-DiGtsygz.js"
+    />
+    <link
+      rel="modulepreload"
+      crossorigin=""
+      href="/sg/sg-cnccms/js/__commonjsHelpers__-C4iS2aBk.js"
+    />
+    <link
+      rel="modulepreload"
+      crossorigin=""
+      href="/sg/sg-cnccms/js/components-B8GXhgZf.js"
+    />
+    <link
+      rel="modulepreload"
+      crossorigin=""
+      href="/sg/sg-cnccms/js/videoJs-BHEad3ce.js"
+    />
+    <link
+      rel="stylesheet"
+      crossorigin=""
+      href="/sg/sg-cnccms/css/components-1p0sOd-N.css"
+    />
+    <link
+      rel="stylesheet"
+      crossorigin=""
+      href="/sg/sg-cnccms/css/index-BMam6J-w.css"
+    />
+    <link rel="modulepreload" href="/sg/sg-cnccms/js/404-zZeA0-zZ.js" />
+    <link rel="modulepreload" href="/sg/sg-cnccms/js/500-B_eZd_ci.js" />
+    <link rel="modulepreload" href="/sg/sg-cnccms/js/index-BLFP5R1S.js" />
+    <link
+      rel="modulepreload"
+      href="/sg/sg-cnccms/js/lottie_light-C3K50jSr.js"
+    />
+    <link rel="modulepreload" href="/sg/sg-cnccms/js/lottie-Cz62ZWyE.js" />
+    <link rel="modulepreload" href="/sg/sg-cnccms/js/ScrollMagic-DVrH0THW.js" />
+  </head>
+
+  <body>
+    <div id="app"><!--app-html--></div>
+    <!--page-state-->
+  <script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"c8c3a2941adb43919bde5c912104f0be","server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+</body>
+</html>

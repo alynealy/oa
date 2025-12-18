@@ -1,0 +1,6 @@
+URL: https://tupperware.com.vn
+Status: FAILED
+Error: No logo found
+Method: access_error: HTTPSConnectionPool(host='tupp
+Index: 2105
+Timestamp: Tue Dec  9 11:22:21 2025

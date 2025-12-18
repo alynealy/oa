@@ -1,0 +1,6 @@
+URL: https://wurthcanarias.es
+Status: FAILED
+Error: No logo found
+Method: access_error: HTTPSConnectionPool(host='wurt
+Index: 2991
+Timestamp: Tue Dec  9 11:22:22 2025

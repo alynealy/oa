@@ -1,0 +1,6 @@
+URL: https://axa-assistance.ma
+Status: FAILED
+Error: No logo found
+Method: access_error: HTTPSConnectionPool(host='axa-
+Index: 1878
+Timestamp: Tue Dec  9 11:22:21 2025

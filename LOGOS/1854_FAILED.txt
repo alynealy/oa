@@ -1,0 +1,6 @@
+URL: https://tbwaalif.com
+Status: FAILED
+Error: No logo found
+Method: access_error: HTTPSConnectionPool(host='tbwa
+Index: 1854
+Timestamp: Tue Dec  9 11:22:21 2025

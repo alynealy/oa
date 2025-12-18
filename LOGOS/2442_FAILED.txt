@@ -1,0 +1,6 @@
+URL: https://mitsubishielectricmalaysia.com
+Status: FAILED
+Error: No logo found
+Method: access_error: HTTPSConnectionPool(host='mits
+Index: 2442
+Timestamp: Tue Dec  9 11:22:22 2025

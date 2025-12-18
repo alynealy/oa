@@ -1,0 +1,6 @@
+URL: https://deswam.in
+Status: FAILED
+Error: No logo found
+Method: not_found
+Index: 2657
+Timestamp: Tue Dec  9 11:22:22 2025

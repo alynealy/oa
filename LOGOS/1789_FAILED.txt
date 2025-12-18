@@ -1,0 +1,6 @@
+URL: https://thebodyshop.com.br
+Status: FAILED
+Error: No logo found
+Method: access_error: HTTPSConnectionPool(host='www.
+Index: 1789
+Timestamp: Tue Dec  9 11:22:21 2025

@@ -1,0 +1,6 @@
+URL: https://manpower.co.za
+Status: FAILED
+Error: No logo found
+Method: not_found
+Index: 2198
+Timestamp: Tue Dec  9 11:22:21 2025

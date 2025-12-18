@@ -1,0 +1,6 @@
+URL: https://orange.co.bw
+Status: FAILED
+Error: No logo found
+Method: access_error: HTTPSConnectionPool(host='oran
+Index: 1166
+Timestamp: Tue Dec  9 11:22:20 2025

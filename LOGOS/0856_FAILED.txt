@@ -1,0 +1,6 @@
+URL: https://pepsico.com.tr
+Status: FAILED
+Error: No logo found
+Method: not_found
+Index: 856
+Timestamp: Tue Dec  9 11:22:20 2025

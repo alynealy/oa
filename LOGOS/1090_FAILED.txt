@@ -1,0 +1,6 @@
+URL: https://enterpriserentacar.pl
+Status: FAILED
+Error: No logo found
+Method: not_found
+Index: 1090
+Timestamp: Tue Dec  9 11:22:20 2025

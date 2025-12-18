@@ -1,0 +1,6 @@
+URL: https://patheon.com
+Status: FAILED
+Error: No logo found
+Method: access_error: ('Connection aborted.', Connec
+Index: 1933
+Timestamp: Tue Dec  9 11:22:21 2025

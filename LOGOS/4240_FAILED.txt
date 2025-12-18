@@ -1,0 +1,6 @@
+URL: https://allianz-reiseschutz.de
+Status: FAILED
+Error: No logo found
+Method: not_found
+Index: 4240
+Timestamp: Tue Dec  9 11:22:24 2025

@@ -1,0 +1,6 @@
+URL: https://dci.co.th
+Status: FAILED
+Error: No logo found
+Method: access_error: HTTPSConnectionPool(host='dci.
+Index: 1745
+Timestamp: Tue Dec  9 11:22:21 2025

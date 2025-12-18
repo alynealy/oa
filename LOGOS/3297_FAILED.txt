@@ -1,0 +1,6 @@
+URL: https://shimadzu-techno.co.jp
+Status: FAILED
+Error: No logo found
+Method: access_error: HTTPSConnectionPool(host='shim
+Index: 3297
+Timestamp: Tue Dec  9 11:22:23 2025

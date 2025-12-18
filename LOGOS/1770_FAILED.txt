@@ -1,0 +1,6 @@
+URL: https://metlife.com.uy
+Status: FAILED
+Error: No logo found
+Method: access_error: HTTPSConnectionPool(host='metl
+Index: 1770
+Timestamp: Tue Dec  9 11:22:21 2025

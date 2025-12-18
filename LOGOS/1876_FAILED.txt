@@ -1,0 +1,6 @@
+URL: https://greatplacetowork.com.ar
+Status: FAILED
+Error: No logo found
+Method: access_error: HTTPSConnectionPool(host='grea
+Index: 1876
+Timestamp: Tue Dec  9 11:22:21 2025

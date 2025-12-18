@@ -1,0 +1,6 @@
+URL: https://savethechildren.nl
+Status: FAILED
+Error: No logo found
+Method: not_found
+Index: 1318
+Timestamp: Tue Dec  9 11:22:20 2025

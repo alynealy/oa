@@ -1,0 +1,6 @@
+URL: https://aspenpharma.es
+Status: FAILED
+Error: No logo found
+Method: access_error: HTTPSConnectionPool(host='aspe
+Index: 2949
+Timestamp: Tue Dec  9 11:22:22 2025

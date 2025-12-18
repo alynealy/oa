@@ -1,0 +1,6 @@
+URL: https://allianz.lu
+Status: FAILED
+Error: No logo found
+Method: access_error: HTTPSConnectionPool(host='alli
+Index: 3908
+Timestamp: Tue Dec  9 11:22:23 2025

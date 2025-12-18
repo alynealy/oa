@@ -1,0 +1,6 @@
+URL: https://powerint.cn
+Status: FAILED
+Error: No logo found
+Method: access_error: HTTPSConnectionPool(host='powe
+Index: 993
+Timestamp: Tue Dec  9 11:22:20 2025

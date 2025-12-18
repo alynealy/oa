@@ -1,0 +1,6 @@
+URL: https://wurth-int.com
+Status: FAILED
+Error: No logo found
+Method: access_error: HTTPSConnectionPool(host='wurt
+Index: 2717
+Timestamp: Tue Dec  9 11:22:22 2025

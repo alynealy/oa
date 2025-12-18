@@ -1,0 +1,6 @@
+URL: https://enterpriserentacar.bg
+Status: FAILED
+Error: No logo found
+Method: not_found
+Index: 2955
+Timestamp: Tue Dec  9 11:22:22 2025

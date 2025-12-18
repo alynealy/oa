@@ -1,0 +1,6 @@
+URL: https://oaklandwoodfloors.net
+Status: FAILED
+Error: No logo found
+Method: access_error: HTTPSConnectionPool(host='oakl
+Index: 1599
+Timestamp: Tue Dec  9 11:22:21 2025

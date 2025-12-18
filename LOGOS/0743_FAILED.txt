@@ -1,0 +1,6 @@
+URL: https://mcvitiesindia.com
+Status: FAILED
+Error: No logo found
+Method: access_error: HTTPSConnectionPool(host='mcvi
+Index: 743
+Timestamp: Tue Dec  9 11:22:20 2025

@@ -1,0 +1,6 @@
+URL: https://wuerth.co.th
+Status: FAILED
+Error: No logo found
+Method: access_error: HTTPSConnectionPool(host='wuer
+Index: 1605
+Timestamp: Tue Dec  9 11:22:21 2025

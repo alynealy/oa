@@ -1,0 +1,6 @@
+URL: https://medef-somme.fr
+Status: FAILED
+Error: No logo found
+Method: access_error: HTTPSConnectionPool(host='mede
+Index: 639
+Timestamp: Tue Dec  9 11:22:20 2025

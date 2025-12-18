@@ -1,0 +1,6 @@
+URL: https://amnesty.org.ph
+Status: FAILED
+Error: No logo found
+Method: access_error: HTTPSConnectionPool(host='amne
+Index: 4074
+Timestamp: Tue Dec  9 11:22:24 2025

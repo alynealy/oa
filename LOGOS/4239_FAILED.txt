@@ -1,0 +1,6 @@
+URL: https://toyota-lyonsud.fr
+Status: FAILED
+Error: No logo found
+Method: access_error: ('Connection aborted.', Remote
+Index: 4239
+Timestamp: Tue Dec  9 11:22:24 2025

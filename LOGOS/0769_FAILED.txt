@@ -1,0 +1,6 @@
+URL: https://modshair-mannheim.de
+Status: FAILED
+Error: No logo found
+Method: access_error: HTTPSConnectionPool(host='mods
+Index: 769
+Timestamp: Tue Dec  9 11:22:20 2025

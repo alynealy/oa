@@ -1,0 +1,6 @@
+URL: https://allianzportugal.pt
+Status: FAILED
+Error: No logo found
+Method: access_error: HTTPSConnectionPool(host='alli
+Index: 1447
+Timestamp: Tue Dec  9 11:22:20 2025

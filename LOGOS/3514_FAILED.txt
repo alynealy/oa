@@ -1,0 +1,6 @@
+URL: https://starkeyjp.com
+Status: FAILED
+Error: No logo found
+Method: access_error: HTTPSConnectionPool(host='star
+Index: 3514
+Timestamp: Tue Dec  9 11:22:23 2025

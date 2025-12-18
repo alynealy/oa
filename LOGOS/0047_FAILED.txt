@@ -1,0 +1,6 @@
+URL: https://unicharm.com.br
+Status: FAILED
+Error: No logo found
+Method: access_error: HTTPSConnectionPool(host='unic
+Index: 47
+Timestamp: Tue Dec  9 11:22:19 2025

@@ -1,0 +1,6 @@
+URL: https://toyotaortakoy.com.tr
+Status: FAILED
+Error: No logo found
+Method: access_error: HTTPSConnectionPool(host='toyo
+Index: 4134
+Timestamp: Tue Dec  9 11:22:24 2025

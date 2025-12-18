@@ -1,0 +1,6 @@
+URL: https://zkteco-ao.com
+Status: FAILED
+Error: No logo found
+Method: access_error: HTTPSConnectionPool(host='zkte
+Index: 4351
+Timestamp: Tue Dec  9 11:22:24 2025

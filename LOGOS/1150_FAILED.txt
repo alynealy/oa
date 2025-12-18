@@ -1,0 +1,6 @@
+URL: https://chicco.com.tw
+Status: FAILED
+Error: No logo found
+Method: access_error: HTTPSConnectionPool(host='chic
+Index: 1150
+Timestamp: Tue Dec  9 11:22:20 2025

@@ -1,0 +1,6 @@
+URL: https://mooresingapore.com
+Status: FAILED
+Error: No logo found
+Method: access_error: HTTPSConnectionPool(host='moor
+Index: 187
+Timestamp: Tue Dec  9 11:22:19 2025

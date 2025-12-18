@@ -1,0 +1,6 @@
+URL: https://daikin.ge
+Status: FAILED
+Error: No logo found
+Method: access_error: HTTPSConnectionPool(host='daik
+Index: 767
+Timestamp: Tue Dec  9 11:22:20 2025

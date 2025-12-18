@@ -1,0 +1,6 @@
+URL: https://africell.ao
+Status: FAILED
+Error: No logo found
+Method: access_error: HTTPSConnectionPool(host='afri
+Index: 329
+Timestamp: Tue Dec  9 11:22:19 2025

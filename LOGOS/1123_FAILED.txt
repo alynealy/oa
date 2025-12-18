@@ -1,0 +1,6 @@
+URL: https://shimadzu-rika.co.jp
+Status: FAILED
+Error: No logo found
+Method: access_error: HTTPSConnectionPool(host='shim
+Index: 1123
+Timestamp: Tue Dec  9 11:22:20 2025

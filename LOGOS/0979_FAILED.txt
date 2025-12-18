@@ -1,0 +1,6 @@
+URL: https://shimadzu.com.ph
+Status: FAILED
+Error: No logo found
+Method: access_error: HTTPSConnectionPool(host='shim
+Index: 979
+Timestamp: Tue Dec  9 11:22:20 2025

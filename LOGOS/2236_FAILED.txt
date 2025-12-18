@@ -1,0 +1,6 @@
+URL: https://starkey.co.kr
+Status: FAILED
+Error: No logo found
+Method: access_error: HTTPSConnectionPool(host='star
+Index: 2236
+Timestamp: Tue Dec  9 11:22:21 2025

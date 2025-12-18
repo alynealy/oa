@@ -1,0 +1,6 @@
+URL: https://mcdonalds.com.jo
+Status: FAILED
+Error: No logo found
+Method: access_error: HTTPSConnectionPool(host='mcdo
+Index: 1639
+Timestamp: Tue Dec  9 11:22:21 2025

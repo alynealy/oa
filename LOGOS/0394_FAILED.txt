@@ -1,0 +1,6 @@
+URL: https://stanbicbank.co.bw
+Status: FAILED
+Error: No logo found
+Method: access_error: HTTPSConnectionPool(host='stan
+Index: 394
+Timestamp: Tue Dec  9 11:22:19 2025

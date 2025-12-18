@@ -1,0 +1,6 @@
+URL: https://risogallo.it
+Status: FAILED
+Error: No logo found
+Method: access_error: HTTPSConnectionPool(host='riso
+Index: 1564
+Timestamp: Tue Dec  9 11:22:21 2025

@@ -1,0 +1,6 @@
+URL: https://mitsubishielevator.co.kr
+Status: FAILED
+Error: No logo found
+Method: access_error: HTTPSConnectionPool(host='mits
+Index: 3430
+Timestamp: Tue Dec  9 11:22:23 2025

@@ -1,0 +1,6 @@
+URL: https://vedanta-zincinternational.com
+Status: FAILED
+Error: No logo found
+Method: access_error: HTTPSConnectionPool(host='veda
+Index: 2930
+Timestamp: Tue Dec  9 11:22:22 2025

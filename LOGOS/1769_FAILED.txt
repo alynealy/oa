@@ -1,0 +1,6 @@
+URL: https://avis-taiwan.com
+Status: FAILED
+Error: No logo found
+Method: access_error: ('Connection aborted.', Connec
+Index: 1769
+Timestamp: Tue Dec  9 11:22:21 2025

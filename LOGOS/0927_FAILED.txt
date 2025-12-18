@@ -1,0 +1,6 @@
+URL: https://shimadzu.in
+Status: FAILED
+Error: No logo found
+Method: access_error: HTTPSConnectionPool(host='shim
+Index: 927
+Timestamp: Tue Dec  9 11:22:20 2025

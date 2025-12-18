@@ -1,0 +1,6 @@
+URL: https://wurth.co.ke
+Status: FAILED
+Error: No logo found
+Method: access_error: HTTPSConnectionPool(host='wurt
+Index: 2308
+Timestamp: Tue Dec  9 11:22:21 2025

@@ -1,0 +1,6 @@
+URL: https://cfmotoindia.com
+Status: FAILED
+Error: No logo found
+Method: access_error: HTTPSConnectionPool(host='cfmo
+Index: 2543
+Timestamp: Tue Dec  9 11:22:22 2025
